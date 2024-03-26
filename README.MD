@@ -1,1 +1,1 @@
-For data science purposes
+Data Science practice repo
